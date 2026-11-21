@@ -1,0 +1,12 @@
+name: "Moneydance"
+description: "Moneydance is a desktop personal finance application for budgeting, bill payment, and investment tracking. It supports online banking and multiple currencies. One-time purchase license."
+source_url: "https://moneydance.com/"
+category: "Budgeting Apps"
+tags:
+  - "paid"
+  - "desktop"
+  - "bank-sync"
+  - "investment-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/moneydance.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://moneydance.com/>\n"
+updated_at: "2026-11-21 15:41"

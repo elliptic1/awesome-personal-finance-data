@@ -1,0 +1,13 @@
+name: "Ghostfolio"
+description: "Ghostfolio is an open-source wealth management app for tracking stocks, ETFs, and cryptocurrencies. It provides performance analytics and can be self-hosted or used as a managed service. MIT licensed."
+source_url: "https://ghostfolio.com/"
+category: "Net-Worth & Investment Tracking"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "investment-tracking"
+  - "wealth-management"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/ghostfolio.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ghostfolio.com/>\n- Repository: <https://github.com/ghostfolio/ghostfolio>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 15:41"

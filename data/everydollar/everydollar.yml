@@ -1,0 +1,12 @@
+name: "EveryDollar"
+description: "EveryDollar is a budgeting app based on Ramsey's zero-based budgeting method. It allows manual or bank-connected expense tracking and debt payoff planning. Freemium with premium features."
+source_url: "https://www.everydollar.com/"
+category: "Budgeting Apps"
+tags:
+  - "freemium"
+  - "budgeting"
+  - "zero-based-budgeting"
+  - "ramsey"
+icon_url: "https://icons.duckduckgo.com/ip3/www.everydollar.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.everydollar.com/>\n"
+updated_at: "2026-11-21 15:41"

@@ -1,0 +1,13 @@
+name: "Money Manager Ex"
+description: "Money Manager Ex is an open-source personal finance app for desktop and mobile. It tracks income, expenses, and budgets with support for multiple currencies. Licensed under GPL."
+source_url: "https://moneymanagerex.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "desktop"
+  - "mobile"
+  - "budgeting"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/moneymanagerex.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://moneymanagerex.org/>\n- Repository: <https://github.com/moneymanagerex/moneymanagerex>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 15:41"

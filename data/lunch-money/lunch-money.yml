@@ -1,0 +1,12 @@
+name: "Lunch Money"
+description: "Lunch Money is a budgeting and expense-tracking app with multi-currency support and shared budgets. It imports transactions via bank connections or CSV and emphasizes manual control. Paid subscription."
+source_url: "https://lunchmoney.app/"
+category: "Budgeting Apps"
+tags:
+  - "paid"
+  - "budgeting"
+  - "multi-currency"
+  - "shared-budgets"
+icon_url: "https://icons.duckduckgo.com/ip3/lunchmoney.app.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://lunchmoney.app/>\n"
+updated_at: "2026-11-21 15:41"

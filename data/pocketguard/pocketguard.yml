@@ -1,0 +1,12 @@
+name: "PocketGuard"
+description: "PocketGuard is a budgeting app that shows how much money is available to spend after bills and savings goals. It syncs bank accounts and categorizes transactions automatically. Freemium model."
+source_url: "https://pocketguard.com/"
+category: "Expense Trackers"
+tags:
+  - "freemium"
+  - "budgeting"
+  - "expense-tracking"
+  - "bank-sync"
+icon_url: "https://icons.duckduckgo.com/ip3/pocketguard.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://pocketguard.com/>\n"
+updated_at: "2026-11-21 15:41"

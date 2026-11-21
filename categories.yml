@@ -1,0 +1,12 @@
+- id: budgeting-apps
+  name: "Budgeting Apps"
+- id: expense-trackers
+  name: "Expense Trackers"
+- id: net-worth-and-investment-tracking
+  name: "Net-Worth & Investment Tracking"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: bills-and-subscriptions
+  name: "Bills & Subscriptions"
+- id: plain-text-accounting
+  name: "Plain-Text Accounting"

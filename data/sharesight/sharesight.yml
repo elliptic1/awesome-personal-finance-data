@@ -1,0 +1,12 @@
+name: "Sharesight"
+description: "Sharesight is an investment portfolio tracker that monitors stock performance, dividends, and tax reporting. It supports automatic trade imports from many brokers. Freemium with paid tiers."
+source_url: "https://www.sharesight.com/"
+category: "Net-Worth & Investment Tracking"
+tags:
+  - "freemium"
+  - "investment-tracking"
+  - "dividends"
+  - "tax-reporting"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sharesight.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.sharesight.com/>\n"
+updated_at: "2026-11-21 15:41"

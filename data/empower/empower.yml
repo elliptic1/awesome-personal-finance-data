@@ -1,0 +1,12 @@
+name: "Empower"
+description: "Empower (formerly Personal Capital) is a free net-worth and investment tracking app. It aggregates investment accounts, analyzes portfolio fees, and offers retirement planning tools. Paid wealth management is optional."
+source_url: "https://www.empower.com/"
+category: "Net-Worth & Investment Tracking"
+tags:
+  - "free"
+  - "net-worth"
+  - "investment-tracking"
+  - "retirement-planning"
+icon_url: "https://icons.duckduckgo.com/ip3/www.empower.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.empower.com/>\n"
+updated_at: "2026-11-21 15:41"

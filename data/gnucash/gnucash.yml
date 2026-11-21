@@ -1,0 +1,13 @@
+name: "GnuCash"
+description: "GnuCash is free desktop accounting software for personal and small-business finances. It supports double-entry accounting, bank reconciliation, and investment tracking. Licensed under the GNU GPL."
+source_url: "https://www.gnucash.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "desktop"
+  - "double-entry"
+  - "small-business"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gnucash.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.gnucash.org/>\n- Repository: <https://github.com/Gnucash/gnucash>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 15:41"

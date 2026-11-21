@@ -1,0 +1,13 @@
+name: "Firefly III"
+description: "Firefly III is a self-hosted personal finance manager for tracking expenses, budgets, and investments. It supports multiple currencies, import formats, and an API. Released under the MIT license."
+source_url: "https://www.firefly-iii.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "expense-tracking"
+  - "api"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/www.firefly-iii.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.firefly-iii.org/>\n- Repository: <https://github.com/firefly-iii/firefly-iii>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 15:41"

@@ -1,0 +1,12 @@
+name: "Goodbudget"
+description: "Goodbudget is an envelope budgeting app available on web and mobile. It supports manual transaction entry and household budget sharing without requiring bank syncing. Freemium."
+source_url: "https://goodbudget.com/"
+category: "Budgeting Apps"
+tags:
+  - "freemium"
+  - "budgeting"
+  - "envelope-method"
+  - "manual-entry"
+icon_url: "https://icons.duckduckgo.com/ip3/goodbudget.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://goodbudget.com/>\n"
+updated_at: "2026-11-21 15:41"

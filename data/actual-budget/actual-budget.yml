@@ -1,0 +1,13 @@
+name: "Actual Budget"
+description: "Actual Budget is a local-first, open-source budgeting app with envelope budgeting and bank syncing. It can be self-hosted or used via the official cloud service. Licensed under AGPL."
+source_url: "https://actualbudget.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "budgeting"
+  - "envelope-method"
+  - "agpl"
+icon_url: "https://icons.duckduckgo.com/ip3/actualbudget.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://actualbudget.org/>\n- Repository: <https://github.com/actualbudget/actual>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 15:41"

@@ -1,0 +1,13 @@
+name: "KMyMoney"
+description: "KMyMoney is an open-source personal finance manager for Linux, Windows, and macOS. It supports double-entry accounting, online banking, and investment portfolios. Licensed under GPL."
+source_url: "https://kmymoney.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "desktop"
+  - "double-entry"
+  - "online-banking"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/kmymoney.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://kmymoney.org/>\n- Repository: <https://github.com/KMyMoney/kmymoney>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 15:41"

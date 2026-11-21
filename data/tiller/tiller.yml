@@ -1,0 +1,12 @@
+name: "Tiller"
+description: "Tiller feeds bank and credit card transactions into Google Sheets or Microsoft Excel spreadsheets. It provides automated daily updates and customizable templates for budgeting and net-worth tracking. Paid annual subscription."
+source_url: "https://tillerhq.com/"
+category: "Budgeting Apps"
+tags:
+  - "paid"
+  - "spreadsheets"
+  - "bank-sync"
+  - "google-sheets"
+icon_url: "https://icons.duckduckgo.com/ip3/tillerhq.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://tillerhq.com/>\n"
+updated_at: "2026-11-21 15:41"

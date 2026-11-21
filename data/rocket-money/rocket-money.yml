@@ -1,0 +1,12 @@
+name: "Rocket Money"
+description: "Rocket Money helps users track spending, cancel subscriptions, and manage bills. It offers a free basic tier and paid premium features including credit score monitoring and bill negotiation."
+source_url: "https://www.rocketmoney.com/"
+category: "Bills & Subscriptions"
+tags:
+  - "freemium"
+  - "bills"
+  - "subscriptions"
+  - "credit-score"
+icon_url: "https://icons.duckduckgo.com/ip3/www.rocketmoney.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.rocketmoney.com/>\n"
+updated_at: "2026-11-21 15:41"

@@ -1,0 +1,12 @@
+name: "Ledger CLI"
+description: "Ledger is a command-line double-entry accounting tool that reads plain-text transaction files. It produces balance sheets, income statements, and cash-flow reports. Open source."
+source_url: "https://www.ledger-cli.org/"
+category: "Plain-Text Accounting"
+tags:
+  - "open-source"
+  - "plain-text"
+  - "command-line"
+  - "double-entry"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ledger-cli.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.ledger-cli.org/>\n- Repository: <https://github.com/ledger/ledger>\n\nLicense: BSD.\n"
+updated_at: "2026-11-21 15:41"

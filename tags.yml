@@ -1,0 +1,80 @@
+- id: paid
+  name: "Paid"
+- id: budgeting
+  name: "Budgeting"
+- id: bank-sync
+  name: "Bank Sync"
+- id: envelope-method
+  name: "Envelope Method"
+- id: net-worth
+  name: "Net Worth"
+- id: apple-ecosystem
+  name: "Apple Ecosystem"
+- id: expense-tracking
+  name: "Expense Tracking"
+- id: freemium
+  name: "Freemium"
+- id: bills
+  name: "Bills"
+- id: subscriptions
+  name: "Subscriptions"
+- id: credit-score
+  name: "Credit Score"
+- id: multi-currency
+  name: "Multi-Currency"
+- id: shared-budgets
+  name: "Shared Budgets"
+- id: spreadsheets
+  name: "Spreadsheets"
+- id: google-sheets
+  name: "Google Sheets"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: agpl
+  name: "AGPL"
+- id: api
+  name: "API"
+- id: mit
+  name: "MIT"
+- id: desktop
+  name: "Desktop"
+- id: double-entry
+  name: "Double-Entry"
+- id: small-business
+  name: "Small Business"
+- id: gpl
+  name: "GPL"
+- id: investment-tracking
+  name: "Investment Tracking"
+- id: wealth-management
+  name: "Wealth Management"
+- id: plain-text
+  name: "Plain-Text"
+- id: command-line
+  name: "Command-Line"
+- id: free
+  name: "Free"
+- id: retirement-planning
+  name: "Retirement Planning"
+- id: manual-entry
+  name: "Manual Entry"
+- id: crypto
+  name: "Crypto"
+- id: real-estate
+  name: "Real Estate"
+- id: dividends
+  name: "Dividends"
+- id: tax-reporting
+  name: "Tax Reporting"
+- id: mobile
+  name: "Mobile"
+- id: haskell
+  name: "Haskell"
+- id: online-banking
+  name: "Online Banking"
+- id: zero-based-budgeting
+  name: "Zero-Based Budgeting"
+- id: ramsey
+  name: "Ramsey"
